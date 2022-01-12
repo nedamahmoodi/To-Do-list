@@ -123,9 +123,8 @@ width: 50%;
 	color: var(--pink);
 }
 .task .content .image{
-	background: url('img/person.png');
+	background: url('img/to-do-list.png');
 	background-repeat: no-repeat;
-
 	height: 100px;
 	padding: 30px 30px 0 30px;
 	margin-top: 35px;
